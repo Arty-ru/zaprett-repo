@@ -1,0 +1,14 @@
+umamusume.com
+api.games.umamusume.com
+
+hoyolab.com
+hoyoverse.com
+zenlesszonezero.com
+autopatchos.zenlesszonezero.com
+
+challenges.cloudflare.com
+cloudflare.com
+dns.cloudflare.com
+cloudflare-ech.com
+cloudflare-dns.com
+alec.ns.cloudflare.com
