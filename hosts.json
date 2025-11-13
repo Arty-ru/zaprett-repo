@@ -94,5 +94,13 @@
     "hash": "e14376ee40c95f479ac33d89c7f091e5842764185b2aa5a94c21b2a5bb641c78",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-meta-services.txt"
+  },
+  {
+    "name": "list-games.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "653751a4f6d956a409ef66f13c65b3375c680e7125a4d6432c78dd64fc63c10f",
+    "type": "include",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-games.txt"
   }
 ]
